@@ -4,7 +4,7 @@
 <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
 <br><strong>🔭 I’m currently working on:</strong> Junior Back-end Developer
 <br><strong>🌱 I’m currently learning:</strong> asynchronous python
-<br><strong>📫 How to reach me:</strong> t.me/lifest01
+<br><strong>📫 How to reach me:</strong> 01stas01@gmail.com
 
 <h3> Languages and Tools ⚔️</h3>
 <p>
