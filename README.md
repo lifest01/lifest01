@@ -3,7 +3,7 @@
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
 <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
 <br><strong>🔭 I’m currently working on:</strong> Junior Back-end Developer
-<br><strong>🌱 I’m currently learning:</strong> asynchronous python
+<br><strong>🌱 I’m currently learning:</strong> Golang
 <br><strong>📫 How to reach me:</strong> 01stas01@gmail.com
 
 <h3> Languages and Tools ⚔️</h3>
