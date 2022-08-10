@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Stas a python backend developer. 👋</h2>
+<h2> Hi there, I'm Stas a backend developer. 👋</h2>
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
 <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
