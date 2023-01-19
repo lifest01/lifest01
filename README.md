@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
 <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
-<br><strong>🔭 I’m currently working on:</strong> Junior Golang Developer
+<br><strong>🔭 I’m currently working on:</strong> Golang Developer
 <br><strong>🌱 I’m currently learning:</strong> Golang
 <br><strong>📫 How to reach me:</strong> 01stas01@gmail.com
 
